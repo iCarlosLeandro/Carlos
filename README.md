@@ -1,1 +1,1 @@
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iCarlosLeandro)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iCarlosLeandro)](https://github.com/iCarlosLeandro/github-readme-stats)
