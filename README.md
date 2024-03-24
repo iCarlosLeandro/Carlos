@@ -1,1 +1,1 @@
-<img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=@iCarlosLeandro&show_icons=true&theme=radical">  <img align="center" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCarlosLeandro&layout=compact&theme=radical">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
